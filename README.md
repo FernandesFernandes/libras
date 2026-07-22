@@ -1,12 +1,6 @@
 # 🤟 Tradutor Inteligente de Português para Libras
 
-<p align="center">
 
-<img src="docs/logo.png" width="180">
-
-</p>
-
-<p align="center">
 
 **Sistema de tradução em tempo real de fala para Libras utilizando Inteligência Artificial, geração automática de glosas e integração com o avatar VLibras.**
 
